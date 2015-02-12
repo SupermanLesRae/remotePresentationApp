@@ -41,4 +41,8 @@ In public/scripts/app.js change var socket = io.connect('http://10.0.0.6:3000');
 
 In oder to host this file you will have to host the project on a nodeJS server.
 
+<<<<<<< HEAD
 eg.Modulus.io, Nitro.io 
+=======
+eg.Modulus.io, Nitro.io 
+>>>>>>> 577d36c432c9e1eb32831302c052ff2e516e06b2
