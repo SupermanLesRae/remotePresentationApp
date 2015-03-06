@@ -3,7 +3,7 @@
  */
 $(function() {
 
-    var server = 'http://10.0.0.6:3000/';
+    var server = '';
 
     var user = "";
 

@@ -16,7 +16,7 @@ $(function() {
         });
     });
 
-    var socket = io.connect('http://10.0.0.6:3000');
+    var socket = io.connect('peppresentation-43752.onmodulus.net');
     socket.on('state', function (data) {
         var userId = $("#userCode").val();
         if(userId == "") {
